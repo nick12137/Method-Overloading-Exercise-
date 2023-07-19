@@ -1,0 +1,5 @@
+/Users/nick/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/nick/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/nick/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/nick/repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
